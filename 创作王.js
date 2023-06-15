@@ -3,7 +3,7 @@
 抓包：请求头里的'Authorization'
 请求头：'Host': 'aiapp.cc',
 变量：export CZW = 'XXXXXX'
-地址：https://aiapp.cc/login?invite_code=W159748
+地址：https://aiapp.cc/login?invite_code=S509105
 不是羊毛，写作用的
 cron: 11 11 * * *
 const $ = new Env("创作王")
